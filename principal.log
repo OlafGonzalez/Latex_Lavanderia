@@ -1,0 +1,436 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 10:51
+entering extended mode
+**./principal.tex
+(principal.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\arti
+cle.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size
+10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\b
+abel.sty"
+Package: babel 2018/06/05 3.22 The Babel package
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\s
+witch.def"
+File: switch.def 2018/06/05 3.22 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bbl
+opts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spa
+nish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\b
+abel.def"
+File: babel.def 2018/06/05 3.22 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\t
+xtbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\
+geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\
+keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex
+\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks16
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\
+geometry.cfg"))
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\
+graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\
+graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\
+trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-
+cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-
+def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) (principal.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (secciones/Introduccion/Introduccion.aux)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
+                                                  1\i \global \mathchardef \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...factor \spacefactor }\accent 19 \OT 
+                                                  1\i \egroup \spacefactor \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
+                                                  1\i \global \mathchardef \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...factor \spacefactor }\accent 19 \OT 
+                                                  1\i \egroup \spacefactor \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(secciones/Metodolog.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \unhbox 
+l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
+                                                  {
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Undefined control sequence.
+<argument> ...factor \spacefactor }\accent 19 \OT 
+                                                  1\i \egroup \spacefactor \...
+l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
+                                                  {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten \endgroup.
+<argument> ...efactor }\accent 19 \OT 1\i \egroup 
+                                                  \spacefactor \accent@space...
+l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
+                                                  {
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
+                                                  {
+I'm ignoring this, since I wasn't doing a \csname.
+
+))
+\openout1 = `principal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 457.80487pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 624.25346pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=457.80487pt
+* \textheight=624.25346pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen114
+\scratchbox=\box26
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen115
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\
+epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\
+grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\
+kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\Olaf G. Cortes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdie
+k\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) [7
+
+{C:/Users/Olaf G. Cortes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `secciones/Introduccion/Introduccion.aux'.
+
+ (secciones/Introduccion/Introduccion.tex) [8
+
+]
+\openout2 = `secciones/Metodolog.tex'.
+
+
+(secciones/Metodolog.tex) [9
+
+
+] [10
+
+] (principal.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+(secciones/Introduccion/Introduccion.aux)
+! Undefined control sequence.
+<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
+                                                  1\i \global \mathchardef \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...factor \spacefactor }\accent 19 \OT 
+                                                  1\i \egroup \spacefactor \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
+                                                  1\i \global \mathchardef \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...factor \spacefactor }\accent 19 \OT 
+                                                  1\i \egroup \spacefactor \...
+l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(secciones/Metodolog.tex)) ) 
+Here is how much of TeX's memory you used:
+ 2832 strings out of 492973
+ 42632 string characters out of 3122703
+ 116290 words of memory out of 3000000
+ 6672 multiletter control sequences out of 15000+200000
+ 5457 words of font info for 20 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,4n,31p,614b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Olaf G. Cortes/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on principal.pdf (4 pages, 60040 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
