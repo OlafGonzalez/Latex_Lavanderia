@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 12:48
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -127,117 +127,23 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (secciones/Introduccion/Introduccion.aux)
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
-                                                  1\i \global \mathchardef \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...factor \spacefactor }\accent 19 \OT 
-                                                  1\i \egroup \spacefactor \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
-                                                  1\i \global \mathchardef \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...factor \spacefactor }\accent 19 \OT 
-                                                  1\i \egroup \spacefactor \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-(secciones/Metodolog.tex
-! Missing \endcsname inserted.
-<to be read again> 
-                   \unhbox 
-l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
-                                                  {
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Undefined control sequence.
-<argument> ...factor \spacefactor }\accent 19 \OT 
-                                                  1\i \egroup \spacefactor \...
-l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
-                                                  {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten \endgroup.
-<argument> ...efactor }\accent 19 \OT 1\i \egroup 
-                                                  \spacefactor \accent@space...
-l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
-                                                  {
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra \endcsname.
-\@namedef ...xpandafter \def \csname #1\endcsname 
-                                                  
-l.2 ... \@let@token \penalty \@M \hskip \z@skip a}
-                                                  {
-I'm ignoring this, since I wasn't doing a \csname.
-
-))
+(secciones/Metodologia/meto.aux) (secciones/Analisis/analisis.aux))
 \openout1 = `principal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -347,90 +253,51 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [7
+) [1
 
 {C:/Users/Olaf G. Cortes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 \openout2 = `secciones/Introduccion/Introduccion.aux'.
 
- (secciones/Introduccion/Introduccion.tex) [8
+ (secciones/Introduccion/Introduccion.tex [2
 
-]
-\openout2 = `secciones/Metodolog.tex'.
+] [3] [4])
+[5]
+\openout2 = `secciones/Metodologia/meto.aux'.
+
+ (secciones/Metodologia/meto.tex [6
 
 
-(secciones/Metodolog.tex) [9
+]) [7]
+\openout2 = `secciones/Analisis/analisis.aux'.
 
+ (secciones/Analisis/analisis.tex)
+[8
 
-] [10
 
 ] (principal.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-
-(secciones/Introduccion/Introduccion.aux)
-! Undefined control sequence.
-<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
-                                                  1\i \global \mathchardef \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...factor \spacefactor }\accent 19 \OT 
-                                                  1\i \egroup \spacefactor \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...idb@x \setbox \@tempboxa \hbox {\OT 
-                                                  1\i \global \mathchardef \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> ...factor \spacefactor }\accent 19 \OT 
-                                                  1\i \egroup \spacefactor \...
-l.8 ...et@token \penalty \@M \hskip \z@skip a.aux}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-(secciones/Metodolog.tex)) ) 
+ (secciones/Introduccion/Introduccion.aux)
+(secciones/Metodologia/meto.aux) (secciones/Analisis/analisis.aux)) ) 
 Here is how much of TeX's memory you used:
- 2832 strings out of 492973
- 42632 string characters out of 3122703
- 116290 words of memory out of 3000000
- 6672 multiletter control sequences out of 15000+200000
+ 2845 strings out of 492973
+ 43235 string characters out of 3122703
+ 120722 words of memory out of 3000000
+ 6676 multiletter control sequences out of 15000+200000
  5457 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,31p,614b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Olaf G. Cortes/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
-rs/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on principal.pdf (4 pages, 60040 bytes).
+ 41i,5n,31p,926b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/
+Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Olaf G. Cortes
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr17.pfb>
+Output written on principal.pdf (8 pages, 81634 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
