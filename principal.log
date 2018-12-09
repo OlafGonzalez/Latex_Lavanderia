@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 13:17
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -253,51 +253,59 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) [1
+)
+<./imagenes/upp.png, id=1, 224.2223pt x 268.69615pt>
+File: ./imagenes/upp.png Graphic file (type png)
+<use ./imagenes/upp.png>
+Package pdftex.def Info: ./imagenes/upp.png  used on input line 14.
+(pdftex.def)             Requested size: 227.62204pt x 272.77084pt.
+ [1
 
-{C:/Users/Olaf G. Cortes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/Olaf G. Cortes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./
+imagenes/upp.png>]
 \openout2 = `secciones/Introduccion/Introduccion.aux'.
 
- (secciones/Introduccion/Introduccion.tex [2
 
-] [3] [4])
-[5]
+(secciones/Introduccion/Introduccion.tex [1
+
+]) [2]
 \openout2 = `secciones/Metodologia/meto.aux'.
 
- (secciones/Metodologia/meto.tex [6
+
+(secciones/Metodologia/meto.tex) [3
 
 
-]) [7]
+]
 \openout2 = `secciones/Analisis/analisis.aux'.
 
- (secciones/Analisis/analisis.tex)
-[8
+ (secciones/Analisis/analisis.tex) [4
 
 
-] (principal.aux
+]
+(principal.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (secciones/Introduccion/Introduccion.aux)
 (secciones/Metodologia/meto.aux) (secciones/Analisis/analisis.aux)) ) 
 Here is how much of TeX's memory you used:
- 2845 strings out of 492973
- 43235 string characters out of 3122703
- 120722 words of memory out of 3000000
- 6676 multiletter control sequences out of 15000+200000
- 5457 words of font info for 20 fonts, out of 3000000 for 9000
+ 2856 strings out of 492973
+ 43384 string characters out of 3122703
+ 122722 words of memory out of 3000000
+ 6684 multiletter control sequences out of 15000+200000
+ 5517 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,31p,926b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/
 Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Olaf G. Cortes
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr17.pfb>
-Output written on principal.pdf (8 pages, 81634 bytes).
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Olaf G. Cor
+tes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr12.pfb>
+Output written on principal.pdf (5 pages, 112406 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
