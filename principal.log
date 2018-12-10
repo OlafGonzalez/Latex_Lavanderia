@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  9 DEC 2018 19:06
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -128,7 +128,8 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (secciones/Introduccion/Introduccion.aux)
 (secciones/Metodologia/meto.aux) (secciones/Analisis/analisis.aux)
-(secciones/Diseno/dis.aux))
+(secciones/Diseno/dis.aux) (secciones/Desarrollo/desarrollo.aux)
+(secciones/Conclusion/fin.aux))
 \openout1 = `principal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -267,109 +268,318 @@ imagenes/upp.png>]
 \openout2 = `secciones/Introduccion/Introduccion.aux'.
 
 
-(secciones/Introduccion/Introduccion.tex [1
+(secciones/Introduccion/Introduccion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
-]) [2]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 43--52
+
+ []
+
+[2]
 \openout2 = `secciones/Metodologia/meto.aux'.
 
-
-(secciones/Metodologia/meto.tex) [3
+ (secciones/Metodologia/meto.tex) [3
 
 
 ]
 \openout2 = `secciones/Analisis/analisis.aux'.
 
- (secciones/Analisis/analisis.tex) [4
+ (secciones/Analisis/analisis.tex)
+[4
 
 
 ]
 \openout2 = `secciones/Diseno/dis.aux'.
 
-
-(secciones/Diseno/dis.tex
+ (secciones/Diseno/dis.tex
 <./imagenes/diagramas/CU_Lavanderia.png, id=25, 1475.5125pt x 829.0975pt>
 File: ./imagenes/diagramas/CU_Lavanderia.png Graphic file (type png)
 <use ./imagenes/diagramas/CU_Lavanderia.png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_Lavanderia.png  used on input 
-line 11.
-(pdftex.def)             Requested size: 227.62204pt x 127.90154pt.
+line 12.
+(pdftex.def)             Requested size: 512.1496pt x 287.77214pt.
+
+Overfull \hbox (54.34473pt too wide) in paragraph at lines 12--13
+ [] 
+ []
+
 <./imagenes/diagramas/CU_IniciarSesion.png, id=26, 929.4725pt x 315.1775pt>
 File: ./imagenes/diagramas/CU_IniciarSesion.png Graphic file (type png)
 <use ./imagenes/diagramas/CU_IniciarSesion.png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_IniciarSesion.png  used on inp
-ut line 19.
-(pdftex.def)             Requested size: 227.62204pt x 77.18309pt.
+ut line 20.
+(pdftex.def)             Requested size: 426.79134pt x 144.7189pt.
 <./imagenes/diagramas/CU_PedidosEntregados(Admin).png, id=27, 1174.3875pt x 443
 .6575pt>
 File: ./imagenes/diagramas/CU_PedidosEntregados(Admin).png Graphic file (type p
 ng)
 <use ./imagenes/diagramas/CU_PedidosEntregados(Admin).png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_PedidosEntregados(Admin).png  
-used on input line 27.
-(pdftex.def)             Requested size: 227.62204pt x 85.9882pt.
+used on input line 28.
+(pdftex.def)             Requested size: 426.79134pt x 161.23297pt.
 <./imagenes/diagramas/CU_PedidosPendientes(Admin).png, id=28, 893.3375pt x 548.
 0475pt>
 File: ./imagenes/diagramas/CU_PedidosPendientes(Admin).png Graphic file (type p
 ng)
 <use ./imagenes/diagramas/CU_PedidosPendientes(Admin).png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_PedidosPendientes(Admin).png  
-used on input line 35.
-(pdftex.def)             Requested size: 227.62204pt x 139.63736pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+used on input line 36.
+(pdftex.def)             Requested size: 426.79134pt x 261.83052pt.
 <./imagenes/diagramas/Estado_lavanderia.png, id=29, 1175.39125pt x 557.08125pt>
 
 File: ./imagenes/diagramas/Estado_lavanderia.png Graphic file (type png)
 <use ./imagenes/diagramas/Estado_lavanderia.png>
 Package pdftex.def Info: ./imagenes/diagramas/Estado_lavanderia.png  used on in
-put line 43.
-(pdftex.def)             Requested size: 227.62204pt x 107.87811pt.
+put line 44.
+(pdftex.def)             Requested size: 512.1496pt x 242.7364pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (54.34473pt too wide) in paragraph at lines 44--45
+ [] 
+ []
 
 <./imagenes/diagramas/Estados_lavanderia2.png, id=30, 306.14375pt x 597.23125pt
 >
 File: ./imagenes/diagramas/Estados_lavanderia2.png Graphic file (type png)
 <use ./imagenes/diagramas/Estados_lavanderia2.png>
 Package pdftex.def Info: ./imagenes/diagramas/Estados_lavanderia2.png  used on 
-input line 51.
-(pdftex.def)             Requested size: 227.62204pt x 444.0493pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+input line 52.
+(pdftex.def)             Requested size: 170.71652pt x 333.0347pt.
 [5
 
 
- <./imagenes/diagramas/CU_Lavanderia.png> <./imagenes/diagramas/CU_IniciarSesio
-n.png> <./imagenes/diagramas/CU_PedidosEntregados(Admin).png>]) [6 <./imagenes/
-diagramas/CU_PedidosPendientes(Admin).png> <./imagenes/diagramas/Estado_lavande
-ria.png>] [7 <./imagenes/diagramas/Estados_lavanderia2.png>] (principal.aux
+ <./imagenes/diagramas/CU_Lavanderia.png>]
+<./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png, id=35, 724.7075p
+t x 491.8375pt>
+File: ./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png Graphic file
+ (type png)
+<use ./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png>
+Package pdftex.def Info: ./imagenes/diagramas/Actividades_Lavanderia_InicioSesi
+on.png  used on input line 70.
+(pdftex.def)             Requested size: 284.52756pt x 193.09917pt.
+<./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png, id=36, 740.
+7675pt x 350.30875pt>
+File: ./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png Graphic
+ file (type png)
+<use ./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png>
+Package pdftex.def Info: ./imagenes/diagramas/Actividades_Lavanderia_PedidosEnt
+regados.png  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 134.55124pt.
+<./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png, id=37, 981.
+6675pt x 556.0775pt>
+File: ./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png Graphic
+ file (type png)
+<use ./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png>
+Package pdftex.def Info: ./imagenes/diagramas/Actividades_Lavanderia_PedidosPen
+dientes.png  used on input line 84.
+(pdftex.def)             Requested size: 284.52756pt x 161.1735pt.
+ [6 <./imagenes/diagramas/CU_IniciarSesion.png> <./imagenes/diagramas/CU_Pedido
+sEntregados(Admin).png>]
+<./imagenes/diagramas/Colaboracion_IniciarSesion.png, id=44, 756.8275pt x 419.5
+675pt>
+File: ./imagenes/diagramas/Colaboracion_IniciarSesion.png Graphic file (type pn
+g)
+<use ./imagenes/diagramas/Colaboracion_IniciarSesion.png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_IniciarSesion.png  u
+sed on input line 96.
+(pdftex.def)             Requested size: 284.52756pt x 157.73434pt.
+<./imagenes/diagramas/Colaboracion_NuevoPedido.png, id=45, 607.26875pt x 486.81
+876pt>
+File: ./imagenes/diagramas/Colaboracion_NuevoPedido.png Graphic file (type png)
+
+<use ./imagenes/diagramas/Colaboracion_NuevoPedido.png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_NuevoPedido.png  use
+d on input line 104.
+(pdftex.def)             Requested size: 284.52756pt x 228.09174pt.
+<./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png, id=46, 944.528
+75pt x 494.84875pt>
+File: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png Graphic fi
+le (type png)
+<use ./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Ad
+min).png  used on input line 112.
+(pdftex.def)             Requested size: 284.52756pt x 149.06738pt.
+<./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png, id=47, 816.0
+4875pt x 470.75874pt>
+File: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png Graphic 
+file (type png)
+<use ./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Cl
+iente).png  used on input line 120.
+(pdftex.def)             Requested size: 284.52756pt x 164.13591pt.
+<./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png, id=48, 928.468
+75pt x 518.93875pt>
+File: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png Graphic fi
+le (type png)
+<use ./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Ad
+min).png  used on input line 128.
+(pdftex.def)             Requested size: 284.52756pt x 159.03229pt.
+<./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png, id=49, 663.4
+7874pt x 462.72874pt>
+File: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png Graphic 
+file (type png)
+<use ./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Cl
+iente).png  used on input line 136.
+(pdftex.def)             Requested size: 284.52756pt x 198.43993pt.
+<./imagenes/diagramas/Colaboracion_Registro.png, id=50, 746.79pt x 646.415pt>
+File: ./imagenes/diagramas/Colaboracion_Registro.png Graphic file (type png)
+<use ./imagenes/diagramas/Colaboracion_Registro.png>
+Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_Registro.png  used o
+n input line 145.
+(pdftex.def)             Requested size: 284.52756pt x 246.28137pt.
+<./imagenes/diagramas/Secuencia_InicioSesion.png, id=51, 904.37875pt x 382.4287
+6pt>
+File: ./imagenes/diagramas/Secuencia_InicioSesion.png Graphic file (type png)
+<use ./imagenes/diagramas/Secuencia_InicioSesion.png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_InicioSesion.png  used 
+on input line 157.
+(pdftex.def)             Requested size: 284.52756pt x 120.31396pt.
+<./imagenes/diagramas/Secuencia_NuevoPedido.png, id=52, 856.19875pt x 438.63875
+pt>
+File: ./imagenes/diagramas/Secuencia_NuevoPedido.png Graphic file (type png)
+<use ./imagenes/diagramas/Secuencia_NuevoPedido.png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_NuevoPedido.png  used o
+n input line 165.
+(pdftex.def)             Requested size: 284.52756pt x 145.76189pt.
+<./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png, id=53, 1008.76875
+pt x 767.86874pt>
+File: ./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png Graphic file 
+(type png)
+<use ./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_PedidosEntregados(Admin
+).png  used on input line 173.
+(pdftex.def)             Requested size: 284.52756pt x 216.58354pt.
+<./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png, id=54, 1153.308
+75pt x 799.98875pt>
+File: ./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png Graphic fil
+e (type png)
+<use ./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_PedidosEntregados(Clien
+te).png  used on input line 181.
+(pdftex.def)             Requested size: 284.52756pt x 197.36002pt.
+<./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png, id=55, 1177.39874
+pt x 912.40875pt>
+File: ./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png Graphic file 
+(type png)
+<use ./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_PedidosPendientes(Admin
+).png  used on input line 189.
+(pdftex.def)             Requested size: 284.52756pt x 220.48618pt.
+<./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png, id=56, 848.1687
+5pt x 366.36874pt>
+File: ./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png Graphic fil
+e (type png)
+<use ./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_PedidosPendientes(Clien
+te).png  used on input line 197.
+(pdftex.def)             Requested size: 284.52756pt x 122.9034pt.
+<./imagenes/diagramas/Secuencia_Registro.png, id=57, 824.07875pt x 502.87875pt>
+
+File: ./imagenes/diagramas/Secuencia_Registro.png Graphic file (type png)
+<use ./imagenes/diagramas/Secuencia_Registro.png>
+Package pdftex.def Info: ./imagenes/diagramas/Secuencia_Registro.png  used on i
+nput line 206.
+(pdftex.def)             Requested size: 284.52756pt x 173.6238pt.
+ [7 <./imagenes/diagramas/CU_PedidosPendientes(Admin).png>]
+<./imagenes/diagramas/Com-Dis_Lavanderia.png, id=62, 973.6375pt x 716.6775pt>
+File: ./imagenes/diagramas/Com-Dis_Lavanderia.png Graphic file (type png)
+<use ./imagenes/diagramas/Com-Dis_Lavanderia.png>
+Package pdftex.def Info: ./imagenes/diagramas/Com-Dis_Lavanderia.png  used on i
+nput line 224.
+(pdftex.def)             Requested size: 569.05511pt x 418.86644pt.
+
+Overfull \hbox (111.25024pt too wide) in paragraph at lines 224--225
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [8 <./imagenes/diagramas/Estado_lavanderia.png>] [9 <./imagenes/diagramas/Est
+ados_lavanderia2.png> <./imagenes/diagramas/Actividades_Lavanderia_InicioSesion
+.png>] [10 <./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png> 
+<./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png> <./imagenes
+/diagramas/Colaboracion_IniciarSesion.png>] [11 <./imagenes/diagramas/Colaborac
+ion_NuevoPedido.png> <./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin
+).png>] [12 <./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png> 
+<./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png>] [13 <./imagen
+es/diagramas/Colaboracion_PedidosPendientes(Cliente).png> <./imagenes/diagramas
+/Colaboracion_Registro.png>] [14 <./imagenes/diagramas/Secuencia_InicioSesion.p
+ng> <./imagenes/diagramas/Secuencia_NuevoPedido.png> <./imagenes/diagramas/Secu
+encia_PedidosEntregados(Admin).png>] [15 <./imagenes/diagramas/Secuencia_Pedido
+sEntregados(Cliente).png> <./imagenes/diagramas/Secuencia_PedidosPendientes(Adm
+in).png>] [16 <./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png> <
+./imagenes/diagramas/Secuencia_Registro.png>] [17 <./imagenes/diagramas/Com-Dis
+_Lavanderia.png>]
+\openout2 = `secciones/Desarrollo/desarrollo.aux'.
+
+ (secciones/Desarrollo/desarrollo.tex) [18
+
+
+]
+\openout2 = `secciones/Conclusion/fin.aux'.
+
+
+(secciones/Conclusion/fin.tex) [19
+
+
+] (principal.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
 (secciones/Introduccion/Introduccion.aux) (secciones/Metodologia/meto.aux)
-(secciones/Analisis/analisis.aux) (secciones/Diseno/dis.aux)) ) 
+(secciones/Analisis/analisis.aux) (secciones/Diseno/dis.aux)
+(secciones/Desarrollo/desarrollo.aux) (secciones/Conclusion/fin.aux)) ) 
 Here is how much of TeX's memory you used:
- 2896 strings out of 492973
- 45165 string characters out of 3122703
- 122722 words of memory out of 3000000
- 6708 multiletter control sequences out of 15000+200000
+ 3007 strings out of 492973
+ 51215 string characters out of 3122703
+ 123433 words of memory out of 3000000
+ 6783 multiletter control sequences out of 15000+200000
  5517 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,5n,31p,926b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Olaf G
-. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Olaf G. Cortes/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
-ers/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb>
-Output written on principal.pdf (8 pages, 465721 bytes).
+<C:/User
+s/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Olaf G. Cortes/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Olaf G. C
+ortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb>
+Output written on principal.pdf (20 pages, 828586 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
