@@ -23,3 +23,7 @@
 \contentsline {section}{\numberline {5}Desarrollo del sistema}{35}
 \contentsline {subsection}{\numberline {5.1}Descripci\IeC {\'o}n de las herramientas ocupadas.}{35}
 \contentsline {subsection}{\numberline {5.2}Programaci\IeC {\'o}n}{35}
+\contentsline {section}{\numberline {6}Resultados y conclusiones}{36}
+\contentsline {subsection}{\numberline {6.1}Impresiones en pantalla y entrega del sistema}{36}
+\contentsline {section}{\numberline {7}Conclusi\IeC {\'o}n individual por cada integrante del equipo}{36}
+\contentsline {section}{\numberline {8}Trabajos a fututo}{36}
