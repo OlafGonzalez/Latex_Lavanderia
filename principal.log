@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  10 DEC 2018 00:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.9.26)  10 DEC 2018 10:48
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -625,12 +625,22 @@ File: ./imagenes/tablas/RNF14.png Graphic file (type png)
 <use ./imagenes/tablas/RNF14.png>
 Package pdftex.def Info: ./imagenes/tablas/RNF14.png  used on input line 322.
 (pdftex.def)             Requested size: 312.9803pt x 120.53078pt.
+<./imagenes/logica.jpg, id=129, 334.851pt x 431.211pt>
+File: ./imagenes/logica.jpg Graphic file (type jpg)
+<use ./imagenes/logica.jpg>
+Package pdftex.def Info: ./imagenes/logica.jpg  used on input line 336.
+(pdftex.def)             Requested size: 312.9803pt x 403.04865pt.
 )
 File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 33.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
  [18 <./imagenes/tablas/RNF13.png> <./imagenes/tablas/RNF14.png>]
+File: ./imagenes/upp.png Graphic file (type png)
+<use ./imagenes/upp.png>
+Package pdftex.def Info: ./imagenes/upp.png  used on input line 33.
+(pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
+ [19 <./imagenes/logica.jpg>]
 \openout2 = `secciones/Diseno/dis.aux'.
 
  (secciones/Diseno/dis.tex
@@ -638,17 +648,17 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 8.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [19
+ [20
 
 
 ]
-<./imagenes/diagramas/CU_Lavanderia.png, id=138, 1475.5125pt x 829.0975pt>
+<./imagenes/diagramas/CU_Lavanderia.png, id=142, 1475.5125pt x 829.0975pt>
 File: ./imagenes/diagramas/CU_Lavanderia.png Graphic file (type png)
 <use ./imagenes/diagramas/CU_Lavanderia.png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_Lavanderia.png  used on input 
 line 14.
 (pdftex.def)             Requested size: 398.33858pt x 223.82137pt.
-<./imagenes/diagramas/CU_IniciarSesion.png, id=139, 929.4725pt x 315.1775pt>
+<./imagenes/diagramas/CU_IniciarSesion.png, id=143, 929.4725pt x 315.1775pt>
 File: ./imagenes/diagramas/CU_IniciarSesion.png Graphic file (type png)
 <use ./imagenes/diagramas/CU_IniciarSesion.png>
 Package pdftex.def Info: ./imagenes/diagramas/CU_IniciarSesion.png  used on inp
@@ -659,7 +669,7 @@ Overfull \hbox (82.79749pt too wide) in paragraph at lines 22--23
  [] 
  []
 
-<./imagenes/diagramas/CU_PedidosEntregados(Admin).png, id=140, 1174.3875pt x 44
+<./imagenes/diagramas/CU_PedidosEntregados(Admin).png, id=144, 1174.3875pt x 44
 3.6575pt>
 File: ./imagenes/diagramas/CU_PedidosEntregados(Admin).png Graphic file (type p
 ng)
@@ -671,9 +681,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 34.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
-[20 <./imagenes/diagramas/CU_Lavanderia.png> <./imagenes/diagramas/CU_IniciarSe
+[21 <./imagenes/diagramas/CU_Lavanderia.png> <./imagenes/diagramas/CU_IniciarSe
 sion.png>]
-<./imagenes/diagramas/CU_PedidosPendientes(Admin).png, id=146, 893.3375pt x 548
+<./imagenes/diagramas/CU_PedidosPendientes(Admin).png, id=150, 893.3375pt x 548
 .0475pt>
 File: ./imagenes/diagramas/CU_PedidosPendientes(Admin).png Graphic file (type p
 ng)
@@ -685,9 +695,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 42.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [21 <./imagenes/diagramas/CU_PedidosEntregados(Admin).png> <./imagenes/diagram
+ [22 <./imagenes/diagramas/CU_PedidosEntregados(Admin).png> <./imagenes/diagram
 as/CU_PedidosPendientes(Admin).png>]
-<./imagenes/diagramas/Estado_lavanderia.png, id=152, 1175.39125pt x 557.08125pt
+<./imagenes/diagramas/Estado_lavanderia.png, id=156, 1175.39125pt x 557.08125pt
 >
 File: ./imagenes/diagramas/Estado_lavanderia.png Graphic file (type png)
 <use ./imagenes/diagramas/Estado_lavanderia.png>
@@ -699,7 +709,7 @@ Overfull \hbox (25.89197pt too wide) in paragraph at lines 46--47
  [] 
  []
 
-<./imagenes/diagramas/Estados_lavanderia2.png, id=153, 306.14375pt x 597.23125p
+<./imagenes/diagramas/Estados_lavanderia2.png, id=157, 306.14375pt x 597.23125p
 t>
 File: ./imagenes/diagramas/Estados_lavanderia2.png Graphic file (type png)
 <use ./imagenes/diagramas/Estados_lavanderia2.png>
@@ -710,8 +720,8 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 61.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
-[22 <./imagenes/diagramas/Estado_lavanderia.png>]
-<./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png, id=158, 724.7075
+[23 <./imagenes/diagramas/Estado_lavanderia.png>]
+<./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png, id=162, 724.7075
 pt x 491.8375pt>
 File: ./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png Graphic file
  (type png)
@@ -719,7 +729,7 @@ File: ./imagenes/diagramas/Actividades_Lavanderia_InicioSesion.png Graphic file
 Package pdftex.def Info: ./imagenes/diagramas/Actividades_Lavanderia_InicioSesi
 on.png  used on input line 68.
 (pdftex.def)             Requested size: 256.0748pt x 173.78925pt.
-<./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png, id=159, 740
+<./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png, id=163, 740
 .7675pt x 350.30875pt>
 File: ./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png Graphic
  file (type png)
@@ -731,9 +741,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 80.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [23 <./imagenes/diagramas/Estados_lavanderia2.png> <./imagenes/diagramas/Activ
+ [24 <./imagenes/diagramas/Estados_lavanderia2.png> <./imagenes/diagramas/Activ
 idades_Lavanderia_InicioSesion.png>]
-<./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png, id=165, 981
+<./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png, id=170, 981
 .6675pt x 556.0775pt>
 File: ./imagenes/diagramas/Actividades_Lavanderia_PedidosPendientes.png Graphic
  file (type png)
@@ -745,9 +755,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 90.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [24 <./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png> <./ima
+ [25 <./imagenes/diagramas/Actividades_Lavanderia_PedidosEntregados.png> <./ima
 genes/diagramas/Actividades_Lavanderia_PedidosPendientes.png>]
-<./imagenes/diagramas/Colaboracion_IniciarSesion.png, id=172, 756.8275pt x 419.
+<./imagenes/diagramas/Colaboracion_IniciarSesion.png, id=176, 756.8275pt x 419.
 5675pt>
 File: ./imagenes/diagramas/Colaboracion_IniciarSesion.png Graphic file (type pn
 g)
@@ -755,7 +765,7 @@ g)
 Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_IniciarSesion.png  u
 sed on input line 96.
 (pdftex.def)             Requested size: 398.33858pt x 220.8332pt.
-<./imagenes/diagramas/Colaboracion_NuevoPedido.png, id=173, 607.26875pt x 486.8
+<./imagenes/diagramas/Colaboracion_NuevoPedido.png, id=177, 607.26875pt x 486.8
 1876pt>
 File: ./imagenes/diagramas/Colaboracion_NuevoPedido.png Graphic file (type png)
 
@@ -767,8 +777,8 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 109.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [25 <./imagenes/diagramas/Colaboracion_IniciarSesion.png>]
-<./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png, id=178, 944.52
+ [26 <./imagenes/diagramas/Colaboracion_IniciarSesion.png>]
+<./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png, id=182, 944.52
 875pt x 494.84875pt>
 File: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Admin).png Graphic fi
 le (type png)
@@ -776,7 +786,7 @@ le (type png)
 Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Ad
 min).png  used on input line 112.
 (pdftex.def)             Requested size: 312.9803pt x 163.97261pt.
-<./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png, id=179, 816.
+<./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png, id=183, 816.
 04875pt x 470.75874pt>
 File: ./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png Graphic 
 file (type png)
@@ -788,9 +798,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 125.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [26 <./imagenes/diagramas/Colaboracion_NuevoPedido.png> <./imagenes/diagramas/
+ [27 <./imagenes/diagramas/Colaboracion_NuevoPedido.png> <./imagenes/diagramas/
 Colaboracion_PedidosEntregados(Admin).png>]
-<./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png, id=185, 928.46
+<./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png, id=189, 928.46
 875pt x 518.93875pt>
 File: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Admin).png Graphic fi
 le (type png)
@@ -802,9 +812,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 133.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [27 <./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png> <./imag
+ [28 <./imagenes/diagramas/Colaboracion_PedidosEntregados(Cliente).png> <./imag
 enes/diagramas/Colaboracion_PedidosPendientes(Admin).png>]
-<./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png, id=191, 663.
+<./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png, id=195, 663.
 47874pt x 462.72874pt>
 File: ./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png Graphic 
 file (type png)
@@ -816,14 +826,14 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 141.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [28 <./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png>]
-<./imagenes/diagramas/Colaboracion_Registro.png, id=196, 746.79pt x 646.415pt>
+ [29 <./imagenes/diagramas/Colaboracion_PedidosPendientes(Cliente).png>]
+<./imagenes/diagramas/Colaboracion_Registro.png, id=200, 746.79pt x 646.415pt>
 File: ./imagenes/diagramas/Colaboracion_Registro.png Graphic file (type png)
 <use ./imagenes/diagramas/Colaboracion_Registro.png>
 Package pdftex.def Info: ./imagenes/diagramas/Colaboracion_Registro.png  used o
 n input line 145.
 (pdftex.def)             Requested size: 312.9803pt x 270.9105pt.
-<./imagenes/diagramas/Secuencia_InicioSesion.png, id=197, 904.37875pt x 382.428
+<./imagenes/diagramas/Secuencia_InicioSesion.png, id=201, 904.37875pt x 382.428
 76pt>
 File: ./imagenes/diagramas/Secuencia_InicioSesion.png Graphic file (type png)
 <use ./imagenes/diagramas/Secuencia_InicioSesion.png>
@@ -834,16 +844,16 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 161.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [29 <./imagenes/diagramas/Colaboracion_Registro.png> <./imagenes/diagramas/Sec
+ [30 <./imagenes/diagramas/Colaboracion_Registro.png> <./imagenes/diagramas/Sec
 uencia_InicioSesion.png>]
-<./imagenes/diagramas/Secuencia_NuevoPedido.png, id=203, 856.19875pt x 438.6387
+<./imagenes/diagramas/Secuencia_NuevoPedido.png, id=208, 856.19875pt x 438.6387
 5pt>
 File: ./imagenes/diagramas/Secuencia_NuevoPedido.png Graphic file (type png)
 <use ./imagenes/diagramas/Secuencia_NuevoPedido.png>
 Package pdftex.def Info: ./imagenes/diagramas/Secuencia_NuevoPedido.png  used o
 n input line 164.
 (pdftex.def)             Requested size: 312.9803pt x 160.3394pt.
-<./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png, id=204, 1008.7687
+<./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png, id=209, 1008.7687
 5pt x 767.86874pt>
 File: ./imagenes/diagramas/Secuencia_PedidosEntregados(Admin).png Graphic file 
 (type png)
@@ -855,9 +865,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 176.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [30 <./imagenes/diagramas/Secuencia_NuevoPedido.png> <./imagenes/diagramas/Sec
+ [31 <./imagenes/diagramas/Secuencia_NuevoPedido.png> <./imagenes/diagramas/Sec
 uencia_PedidosEntregados(Admin).png>]
-<./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png, id=211, 1153.30
+<./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png, id=215, 1153.30
 875pt x 799.98875pt>
 File: ./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png Graphic fil
 e (type png)
@@ -869,8 +879,8 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 184.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [31 <./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png>]
-<./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png, id=216, 1177.3987
+ [32 <./imagenes/diagramas/Secuencia_PedidosEntregados(Cliente).png>]
+<./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png, id=220, 1177.3987
 4pt x 912.40875pt>
 File: ./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png Graphic file 
 (type png)
@@ -882,8 +892,8 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 192.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [32 <./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png>]
-<./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png, id=221, 848.168
+ [33 <./imagenes/diagramas/Secuencia_PedidosPendientes(Admin).png>]
+<./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png, id=225, 848.168
 75pt x 366.36874pt>
 File: ./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png Graphic fil
 e (type png)
@@ -891,7 +901,7 @@ e (type png)
 Package pdftex.def Info: ./imagenes/diagramas/Secuencia_PedidosPendientes(Clien
 te).png  used on input line 196.
 (pdftex.def)             Requested size: 398.33858pt x 172.06474pt.
-<./imagenes/diagramas/Secuencia_Registro.png, id=222, 824.07875pt x 502.87875pt
+<./imagenes/diagramas/Secuencia_Registro.png, id=226, 824.07875pt x 502.87875pt
 >
 File: ./imagenes/diagramas/Secuencia_Registro.png Graphic file (type png)
 <use ./imagenes/diagramas/Secuencia_Registro.png>
@@ -902,9 +912,9 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 210.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [33 <./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png> <./imagene
+ [34 <./imagenes/diagramas/Secuencia_PedidosPendientes(Cliente).png> <./imagene
 s/diagramas/Secuencia_Registro.png>]
-<./imagenes/diagramas/Com-Dis_Lavanderia.png, id=228, 973.6375pt x 716.6775pt>
+<./imagenes/diagramas/Com-Dis_Lavanderia.png, id=232, 973.6375pt x 716.6775pt>
 File: ./imagenes/diagramas/Com-Dis_Lavanderia.png Graphic file (type png)
 <use ./imagenes/diagramas/Com-Dis_Lavanderia.png>
 Package pdftex.def Info: ./imagenes/diagramas/Com-Dis_Lavanderia.png  used on i
@@ -915,7 +925,7 @@ File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 35.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [34 <./imagenes/diagramas/Com-Dis_Lavanderia.png>]
+ [35 <./imagenes/diagramas/Com-Dis_Lavanderia.png>]
 \openout2 = `secciones/Desarrollo/desarrollo.aux'.
 
  (secciones/Desarrollo/desarrollo.tex)
@@ -924,31 +934,70 @@ File: ./imagenes/upp.png Graphic file (type png)
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 37.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
 
-[35
+[36
 
 
 ]
 \openout2 = `secciones/Conclusion/fin.aux'.
 
- (secciones/Conclusion/fin.tex)
+ (secciones/Conclusion/fin.tex
+<./imagenes/nuevopedido.jpg, id=241, 1155.71774pt x 498.06075pt>
+File: ./imagenes/nuevopedido.jpg Graphic file (type jpg)
+<use ./imagenes/nuevopedido.jpg>
+Package pdftex.def Info: ./imagenes/nuevopedido.jpg  used on input line 8.
+(pdftex.def)             Requested size: 341.43306pt x 147.13943pt.
+<./imagenes/pedidosentregadoscliente.jpg, id=242, 1155.71774pt x 251.7405pt>
+File: ./imagenes/pedidosentregadoscliente.jpg Graphic file (type jpg)
+<use ./imagenes/pedidosentregadoscliente.jpg>
+Package pdftex.def Info: ./imagenes/pedidosentregadoscliente.jpg  used on input
+ line 16.
+(pdftex.def)             Requested size: 341.43306pt x 74.37035pt.
+<./imagenes/pedidospendientescliente.jpg, id=243, 1155.71774pt x 355.92975pt>
+File: ./imagenes/pedidospendientescliente.jpg Graphic file (type jpg)
+<use ./imagenes/pedidospendientescliente.jpg>
+Package pdftex.def Info: ./imagenes/pedidospendientescliente.jpg  used on input
+ line 23.
+(pdftex.def)             Requested size: 341.43306pt x 105.15044pt.
+File: ./imagenes/upp.png Graphic file (type png)
+<use ./imagenes/upp.png>
+Package pdftex.def Info: ./imagenes/upp.png  used on input line 28.
+(pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
+ [37
+
+
+ <./imagenes/nuevopedido.jpg> <./imagenes/pedidosentregadoscliente.jpg> <./imag
+enes/pedidospendientescliente.jpg>]
+<./imagenes/pedidosentregadosadmin.jpg, id=247, 1155.71774pt x 440.847pt>
+File: ./imagenes/pedidosentregadosadmin.jpg Graphic file (type jpg)
+<use ./imagenes/pedidosentregadosadmin.jpg>
+Package pdftex.def Info: ./imagenes/pedidosentregadosadmin.jpg  used on input l
+ine 36.
+(pdftex.def)             Requested size: 341.43306pt x 130.23708pt.
+<./imagenes/pedidospendientesadmin.jpg, id=248, 1155.71774pt x 439.04025pt>
+File: ./imagenes/pedidospendientesadmin.jpg Graphic file (type jpg)
+<use ./imagenes/pedidospendientesadmin.jpg>
+Package pdftex.def Info: ./imagenes/pedidospendientesadmin.jpg  used on input l
+ine 44.
+(pdftex.def)             Requested size: 341.43306pt x 129.70332pt.
+)
 File: ./imagenes/upp.png Graphic file (type png)
 <use ./imagenes/upp.png>
 Package pdftex.def Info: ./imagenes/upp.png  used on input line 39.
 (pdftex.def)             Requested size: 25.60747pt x 30.68414pt.
- [36
 
-
-] (principal.aux (secciones/portada.aux)
+[38 <./imagenes/pedidosentregadosadmin.jpg> <./imagenes/pedidospendientesadmin.
+jpg>] (principal.aux (secciones/portada.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
+
 (secciones/Introduccion/Introduccion.aux) (secciones/Metodologia/meto.aux)
 (secciones/Analisis/analisis.aux) (secciones/Diseno/dis.aux)
 (secciones/Desarrollo/desarrollo.aux) (secciones/Conclusion/fin.aux)) ) 
 Here is how much of TeX's memory you used:
- 3344 strings out of 492973
- 58308 string characters out of 3122703
+ 3375 strings out of 492973
+ 59355 string characters out of 3122703
  129216 words of memory out of 3000000
- 7064 multiletter control sequences out of 15000+200000
+ 7088 multiletter control sequences out of 15000+200000
  5517 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,17n,43p,982b,616s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -960,9 +1009,9 @@ rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Olaf G. C
 ortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
 b><C:/Users/Olaf G. Cortes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr12.pfb>
-Output written on principal.pdf (37 pages, 1139755 bytes).
+Output written on principal.pdf (39 pages, 1675595 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
+ 271 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
