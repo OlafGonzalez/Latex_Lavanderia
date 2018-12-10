@@ -1,25 +1,25 @@
 \babel@toc {spanish}{}
-\contentsline {figure}{\numberline {1}{\ignorespaces CU general del sistema}}{7}
+\contentsline {figure}{\numberline {1}{\ignorespaces CU general del sistema}}{8}
 \contentsline {figure}{\numberline {2}{\ignorespaces Inicio de sesi\IeC {\'o}n}}{8}
-\contentsline {figure}{\numberline {3}{\ignorespaces CU de Pedidos entregados del Administrador}}{8}
+\contentsline {figure}{\numberline {3}{\ignorespaces CU de Pedidos entregados del Administrador}}{9}
 \contentsline {figure}{\numberline {4}{\ignorespaces CU de pedidos pendientes del Administrador}}{9}
 \contentsline {figure}{\numberline {5}{\ignorespaces Diagrama de estados del sistema}}{10}
-\contentsline {figure}{\numberline {6}{\ignorespaces Diagrama de estados de un nuevo pedido}}{11}
-\contentsline {figure}{\numberline {7}{\ignorespaces Diagrama de actividades de inicio de sesion}}{11}
-\contentsline {figure}{\numberline {8}{\ignorespaces Diagrama de actividades de Pedidos entregados}}{12}
-\contentsline {figure}{\numberline {9}{\ignorespaces Diagrama de estados de pedidos pendientes}}{12}
-\contentsline {figure}{\numberline {10}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n:Inicio de sesion}}{12}
-\contentsline {figure}{\numberline {11}{\ignorespaces Diagrama de Colaborac\IeC {\'\i }on:Nuevo pedido}}{13}
-\contentsline {figure}{\numberline {12}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos entregados -Admin}}{13}
-\contentsline {figure}{\numberline {13}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos entregados -Cliente}}{14}
-\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos Pendientes -Admin }}{14}
-\contentsline {figure}{\numberline {15}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos Pendientes -Cliente}}{15}
-\contentsline {figure}{\numberline {16}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Registro}}{15}
-\contentsline {figure}{\numberline {17}{\ignorespaces Diagrama de Secuencia:Inicio de sesion}}{16}
-\contentsline {figure}{\numberline {18}{\ignorespaces Diagrama de Secuencia:Nuevo pedido}}{16}
-\contentsline {figure}{\numberline {19}{\ignorespaces Diagrama de Secuencia: Pedidos entregados -Admin}}{16}
-\contentsline {figure}{\numberline {20}{\ignorespaces Diagrama de Secuencia: Pedidos entregados -Cliente}}{17}
-\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de Secuencia: Pedidos Pendientes -Admin }}{17}
-\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de Secuencia: Pedidos Pendientes -Cliente}}{18}
-\contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de Secuencia: Registro}}{18}
-\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de Componentes}}{19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Diagrama de estados de un nuevo pedido}}{12}
+\contentsline {figure}{\numberline {7}{\ignorespaces Diagrama de actividades de inicio de sesion}}{13}
+\contentsline {figure}{\numberline {8}{\ignorespaces Diagrama de actividades de Pedidos entregados}}{13}
+\contentsline {figure}{\numberline {9}{\ignorespaces Diagrama de estados de pedidos pendientes}}{14}
+\contentsline {figure}{\numberline {10}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n:Inicio de sesion}}{14}
+\contentsline {figure}{\numberline {11}{\ignorespaces Diagrama de Colaborac\IeC {\'\i }on:Nuevo pedido}}{15}
+\contentsline {figure}{\numberline {12}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos entregados -Admin}}{15}
+\contentsline {figure}{\numberline {13}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos entregados -Cliente}}{16}
+\contentsline {figure}{\numberline {14}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos Pendientes -Admin }}{16}
+\contentsline {figure}{\numberline {15}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Pedidos Pendientes -Cliente}}{17}
+\contentsline {figure}{\numberline {16}{\ignorespaces Diagrama de Colaboraci\IeC {\'o}n: Registro}}{17}
+\contentsline {figure}{\numberline {17}{\ignorespaces Diagrama de Secuencia:Inicio de sesion}}{18}
+\contentsline {figure}{\numberline {18}{\ignorespaces Diagrama de Secuencia:Nuevo pedido}}{18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Diagrama de Secuencia: Pedidos entregados -Admin}}{18}
+\contentsline {figure}{\numberline {20}{\ignorespaces Diagrama de Secuencia: Pedidos entregados -Cliente}}{19}
+\contentsline {figure}{\numberline {21}{\ignorespaces Diagrama de Secuencia: Pedidos Pendientes -Admin }}{19}
+\contentsline {figure}{\numberline {22}{\ignorespaces Diagrama de Secuencia: Pedidos Pendientes -Cliente}}{20}
+\contentsline {figure}{\numberline {23}{\ignorespaces Diagrama de Secuencia: Registro}}{20}
+\contentsline {figure}{\numberline {24}{\ignorespaces Diagrama de Componentes}}{21}

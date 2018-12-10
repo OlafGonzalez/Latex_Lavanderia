@@ -1,7 +1,14 @@
 \documentclass{article}
 \usepackage[spanish]{babel}
-\usepackage[left=2.5cm,top=3cm,right=2.5cm,bottom=3cm,bindingoffset=0.5cm]{geometry}
+\usepackage[left=2.5cm,top=2.5cm,right=2.5cm,bottom=2.5cm,bindingoffset=0.5cm]{geometry}
 \usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[RO,LE]{Lavanderia Bronce, UPP,Ing. Software 04 02}
+
+\fancyfoot[RO,LE]{\thepage}
+
 %\usepackage{lmodel}
 \usepackage[utf8]{inputenc}
 \begin{document}
@@ -9,7 +16,7 @@
 \include{secciones/portada}
 
 \tableofcontents
-
+	
 \listoffigures
 
 \newpage
